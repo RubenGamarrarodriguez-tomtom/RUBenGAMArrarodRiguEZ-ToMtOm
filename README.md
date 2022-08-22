@@ -1,13 +1,24 @@
-### Hi there 
+### Hi there 💟
 
-+ 🌱 I’m currently learning 
++ 📈 I’m currently learning:
   + Kubernetes
   + GraphQL
   + Kotlin
   + Spring Batch
-+ 💬 Ask me about
-  + Spring
-  + Retro Videogames
+  + Spring Native
+  + GraalVM
++ 🤔 I’m looking for help with:
+  + DORA
+  + SonarQube
+  + JFrog
+  + Hashicorp Vault
+  + LinearB
+  + CUPID
+  + Checkstyle, Spotbugs, PMD
++ 💬 Ask me about:
+  + Spring Framework and Spring Boot
+  + Retro Games
+  + Markdown and GFM
 + 📫 How to reach me: https://www.linkedin.com/in/rgamarrarodriguez
 + 😄 Pronouns:
   + He/him
