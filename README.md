@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 
+
++ 🌱 I’m currently learning 
+  + Kubernetes
+  + GraphQL
+  + Kotlin
+  + Spring Batch
++ 💬 Ask me about
+  + Spring
+  + Retro Videogames
++ 📫 How to reach me: https://www.linkedin.com/in/rgamarrarodriguez
++ 😄 Pronouns:
+  + He/him
+  + But also They/them
+  + I define myself as gender-non-conforming
 
 <!--
 **RUBenGAMArrarodRiguEZ-ToMtOm/RUBenGAMArrarodRiguEZ-ToMtOm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
