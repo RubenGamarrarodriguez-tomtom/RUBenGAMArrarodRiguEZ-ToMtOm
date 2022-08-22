@@ -22,7 +22,7 @@
 + 📫 How to reach me: https://www.linkedin.com/in/rgamarrarodriguez
 + 😄 Pronouns:
   + He/him
-  + But also They/them
+  + But also they/them
   + I define myself as gender-non-conforming
 
 <!--
