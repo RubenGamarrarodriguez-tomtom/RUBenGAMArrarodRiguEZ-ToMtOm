@@ -7,7 +7,7 @@ Polish, Parenting, Origami
 LinearB, CUPID, Checkstyle, Spotbugs, PMD, T-Shaped Engineering, 
 Time management, Parenting
 + 💬 Ask me about: ElectroVehicles, Speedcams, Spring Framework, 
-Spring Boot, Retro Games, Markdown and GFM, Functional Programming, Mathemathics
+Spring Boot, Retro Games, Markdown and GFM, Functional programming, Mathemathics
 + 📫 How to reach me: https://www.linkedin.com/in/rgamarrarodriguez
 + 😄 Pronouns: He/him➕they/them. I define myself as gender-non-conforming
 
