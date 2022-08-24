@@ -1,4 +1,4 @@
-### Hi there ❤️💟❤️
+### Hi there 💚
 
 + 📈 I’m currently learning: Kubernetes, GraphQL, Kotlin, Spring Batch, 
 Spring Native, GraalVM, Gradle, Reactive programming, RSocket, 
