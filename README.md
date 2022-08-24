@@ -1,10 +1,15 @@
 ### Hi there 💟
 
-+ 📈 I’m currently learning Kubernetes, GraphQL, Kotlin, Spring Batch, Spring Native, GraalVM, Gradle
-+ 🤔 I’m looking for help with DORA, SonarQube, JFrog, Hashicorp Vault, LinearB, CUPID, Checkstyle, Spotbugs, PMD
-+ 💬 Ask me about, Spring Framework, Spring Boot, Retro Games, Markdown and GFM
-+ 📫 How to reach me https://www.linkedin.com/in/rgamarrarodriguez
-+ 😄 Pronouns He/him➕they/them. I define myself as gender-non-conforming
++ 📈 I’m currently learning: Kubernetes, GraphQL, Kotlin, Spring Batch, 
+Spring Native, GraalVM, Gradle, Reactive programming, RSocket, 
+Polish, Parenting, Origami
++ 🤔 I’m looking for help with: DORA, SonarQube, JFrog, Hashicorp Vault, 
+LinearB, CUPID, Checkstyle, Spotbugs, PMD, T-Shaped Engineering, 
+Time management, Parenting
++ 💬 Ask me about: ElectroVehicles, Speedcams, Perseus, Spring Framework, 
+Spring Boot, Retro Games, Markdown and GFM, Functional Programming, Mathemathics
++ 📫 How to reach me: https://www.linkedin.com/in/rgamarrarodriguez
++ 😄 Pronouns: He/him➕they/them. I define myself as gender-non-conforming
 
 <!--
 **RUBenGAMArrarodRiguEZ-ToMtOm/RUBenGAMArrarodRiguEZ-ToMtOm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
