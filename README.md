@@ -6,7 +6,7 @@ Polish, Parenting, Origami
 + 🤔 I’m looking for help with: DORA, SonarQube, JFrog, Hashicorp Vault, 
 LinearB, CUPID, Checkstyle, Spotbugs, PMD, T-Shaped Engineering, 
 Time management, Parenting
-+ 💬 Ask me about: ElectroVehicles, Speedcams, Perseus, Spring Framework, 
++ 💬 Ask me about: ElectroVehicles, Speedcams, Spring Framework, 
 Spring Boot, Retro Games, Markdown and GFM, Functional Programming, Mathemathics
 + 📫 How to reach me: https://www.linkedin.com/in/rgamarrarodriguez
 + 😄 Pronouns: He/him➕they/them. I define myself as gender-non-conforming
